@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\TotalUntilStopWord\bin\Debug\TotalUntilStopWord.exe.config
+C:\Users\HP\source\repos\TotalUntilStopWord\bin\Debug\TotalUntilStopWord.exe
+C:\Users\HP\source\repos\TotalUntilStopWord\bin\Debug\TotalUntilStopWord.pdb
+C:\Users\HP\source\repos\TotalUntilStopWord\obj\Debug\TotalUntilStopWord.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TotalUntilStopWord\obj\Debug\TotalUntilStopWord.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TotalUntilStopWord\obj\Debug\TotalUntilStopWord.exe
+C:\Users\HP\source\repos\TotalUntilStopWord\obj\Debug\TotalUntilStopWord.pdb
